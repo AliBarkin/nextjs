@@ -1,1 +1,3 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+# This is my first Next.js experience and first repository
+
+This is my first README.md file
