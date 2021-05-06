@@ -2,7 +2,8 @@ import Link from 'next/link';
 import Head from 'next/head';
 
 export default function Post(){
-    return <div>
+    return (
+    <>
         <Head>
             <title>Blog Post</title>
         </Head>
@@ -10,5 +11,6 @@ export default function Post(){
         <Link href="/">
             Back to Home Page
         </Link>
-    </div>
+    </>
+    )
 }
